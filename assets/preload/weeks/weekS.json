@@ -1,0 +1,49 @@
+{
+	"storyName": "Gotta Go Glitch!",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "hill",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Not-so-fast",
+			"sonic",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Green-Hills",
+			"sonic",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Feel-the-Sunshine",
+			"sonic",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Sonic-Week"
+}

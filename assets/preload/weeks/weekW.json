@@ -1,0 +1,58 @@
+{
+	"storyName": "Bonus Songs",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "hill",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Double-Problem",
+			"Ptails",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Glitched-hills",
+			"sonic",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Faker",
+			"sonic",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"You'll-make-the-change",
+			"sonic",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Bonus Songs"
+}
